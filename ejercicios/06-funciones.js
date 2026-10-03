@@ -24,6 +24,6 @@ const { calcularDescuento } = require("./03-condicionales");
 function calcularTotalFactura(subtotal) {
   // Tu código aquí
 }
-
+ 
 // No borres esta línea: es la puerta por donde el test usa tu función
 module.exports = { calcularTotalFactura };

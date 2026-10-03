@@ -17,7 +17,10 @@
 // ============================================================
 
 function diasDeInventario(stock, ventaDiaria) {
-  // Tu código aquí
+  let contador = 1;
+  while (condition) {
+    
+  }
 }
 
 // No borres esta línea: es la puerta por donde el test usa tu función
