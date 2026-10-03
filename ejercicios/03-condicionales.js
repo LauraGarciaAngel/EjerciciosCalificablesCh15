@@ -32,6 +32,5 @@ function calcularDescuento(subtotal) {
   return resultado;
 }
 
-  calcularDescuento(30000)
 // No borres esta línea: es la puerta por donde el test usa tu función
 module.exports = { calcularDescuento };
